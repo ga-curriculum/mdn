@@ -10,7 +10,7 @@ tktk What is the takeaway of this module?
 
 | Lesson | Video Time | Video | Topics Covered |
 | ------ |:----------:|:-----:| -------------- |
-| [about-mdn](./about-mdn/README.md) | -- | -- | tktk topics covered |
+| [About MDN](./about-mdn/README.md) | -- | -- | tktk topics covered |
 | [Anatomy of an MDN Article](./anatomy-of-an-article/README.md) | -- | -- | tktk topics covered |
 | [tktk Microlesson Name](./tktk-microlesson-03/README.md) | -- | -- | tktk topics covered |
 |  **Total Module**                                        | -- | ---           | ---                 |
