@@ -12,7 +12,6 @@ tktk What is the takeaway of this module?
 | ------ |:----------:|:-----:| -------------- |
 | [About MDN](./about-mdn/README.md) | -- | -- | tktk topics covered |
 | [Anatomy of an MDN Article](./anatomy-of-an-article/README.md) | -- | -- | tktk topics covered |
-| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | -- | -- | tktk topics covered |
 |  **Total Module**                                        | -- | ---           | ---                 |
 
 ## Additional content
