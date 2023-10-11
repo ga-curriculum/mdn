@@ -1,4 +1,4 @@
-# [tktk Module Name] - tktk Microlesson Name
+# Anatomy of an MDN Atricle
 
 ![Hero image](./assets/hero.png)
 
