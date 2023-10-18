@@ -2,7 +2,7 @@
 
 ![Hero image](./assets/hero.png)
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will be able to better understand the basics of how each topic is presented in MDN which should better assist them in answering questions about and solving problems with said topic.
 
 ## Breakdown of Articles
 
@@ -43,3 +43,9 @@ The next section indicates what browsers and runtime environments the article su
 The last section here offers links to related content. This is a great resource for structuring any self-learning you do during this course. These links to articles on other looping methods would be an excellent next step after you feel comfortable with basic `for` loops.
 
 ![See Also](./assets/see-also.png)
+
+## Taking notes
+
+Once you have a decent understanding of the material, you’ll likely want to jot down some notes to reference later. The **Try it** section is great for note taking as you work through an article, but you’ll need to paste this into a `.js` file on your computer if you want to come back to it. Keep your notes in a single directory, and title each `.js` file with the article subject. 
+
+You can see an example of the kinds of notes you might take in the screenshot below.
