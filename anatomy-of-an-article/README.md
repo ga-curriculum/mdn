@@ -49,3 +49,7 @@ The last section here offers links to related content. This is a great resource 
 Once you have a decent understanding of the material, you’ll likely want to jot down some notes to reference later. The **Try it** section is great for note taking as you work through an article, but you’ll need to paste this into a `.js` file on your computer if you want to come back to it. Keep your notes in a single directory, and title each `.js` file with the article subject. 
 
 You can see an example of the kinds of notes you might take in the screenshot below.
+
+![Notes](./assets/notes.png)
+
+> 💡 When taking notes on technical material, always try to break down a concept in your own words. This will help you build your understanding and make reviewing easier!
