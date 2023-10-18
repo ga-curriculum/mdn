@@ -1,4 +1,4 @@
-# [tktk Module Name]
+# Introduction to MDN
 
 ![Hero image](./assets/tktkhero-main.png)
 
@@ -10,12 +10,11 @@ tktk What is the takeaway of this module?
 
 | Lesson | Video Time | Video | Topics Covered |
 | ------ |:----------:|:-----:| -------------- |
-| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | tktk min | [tktk Link]() | tktk topics covered |
-| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | tktk min | [tktk Link]() | tktk topics covered |
-| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | tktk min | [tktk Link]() | tktk topics covered |
-|  **Total Module**                                        | tktk min | ---           | ---                 |
+| [About MDN](./about-mdn/README.md) | -- | -- | tktk topics covered |
+| [Anatomy of an MDN Article](./anatomy-of-an-article/README.md) | -- | -- | tktk topics covered |
+|  **Total Module**                                        | -- | ---           | ---                 |
 
-## Additional content 
+## Additional content
 
 📖 [Reference Materials](./references/README.md)
 
