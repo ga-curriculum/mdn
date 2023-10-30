@@ -2,6 +2,8 @@
 
 ![Hero image](./assets/hero.png)
 
+tktk - Hunter, replace the assets of screen shots with ones with a dark OS per our style guide
+
 **Learning objective:** By the end of this lesson, students will be able to better understand the basics of how each topic is presented in MDN which should better assist them in answering questions about and solving problems with said topic.
 
 ## Breakdown of Articles
