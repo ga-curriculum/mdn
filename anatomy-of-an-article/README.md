@@ -23,7 +23,7 @@ In this section we’ll get some practice with MDN by breaking down the anatomy 
 
 ### Summary
 
-At the top of every MDN article you’ll find a brief summary of the subject. Early on in your developer journey, you’ll often be confused by the terminology used in these summaries. The terminology used here is often addressed in the Syntax/Parameters section, so do your best to cross reference these areas until you have an adequate understanding of the concept.
+At the top of every MDN article you’ll find a brief summary of the subject. Documentation can be overwhelming and confusing at first, but it gets easier with time and is indescribably helpful. The terminology used here is often addressed in the Syntax/Parameters section, so do your best to cross reference these areas until you have an adequate understanding of the concept.
 
 ![Summary of for loop from MDN](./assets/summary.png)
 
