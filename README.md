@@ -10,8 +10,8 @@ This module indroduces MDN Web Docs, a comprehensive and reliable resource for d
 
 | Lesson | Video Time | Video | Topics Covered |
 | ------ |:----------:|:-----:| -------------- |
-| [About MDN](./about-mdn/README.md) | -- | -- | tktk topics covered |
-| [Anatomy of an MDN Article](./anatomy-of-an-article/README.md) | -- | -- | tktk topics covered |
+| [About MDN](./about-mdn/README.md) | -- | -- | Introduce MDN and the resources it provides. |
+| [Anatomy of an MDN Article](./anatomy-of-an-article/README.md) | -- | -- | Demonstrate how to navigate documentation on MDN. |
 |  **Total Module**                                        | -- | ---           | ---                 |
 
 ## Additional content
