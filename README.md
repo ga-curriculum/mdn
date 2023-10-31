@@ -1,4 +1,4 @@
-# Introduction to MDN
+# Intro to MDN
 
 ![Hero image](./assets/tktkhero-main.png)
 

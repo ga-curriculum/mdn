@@ -1,4 +1,4 @@
-# About MDN
+# Intro to MDN - About MDN
 
 ![Hero image](./assets/hero.png)
 

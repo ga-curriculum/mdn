@@ -1,4 +1,4 @@
-# Anatomy of an MDN Atricle
+# Intro to MDN - Anatomy of an MDN Article
 
 ![Hero image](./assets/hero.png)
 

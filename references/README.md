@@ -1,4 +1,4 @@
-# [tktk Module Name] - References
+# Intro to MDN - References
 
 ![Hero image](./assets/hero.png)
 
@@ -6,8 +6,10 @@
 
 Links from lessons:
 
-- [tktk descriptive name of link]()
+- [MDN](https://developer.mozilla.org/en-US/)
 
-- [tktk descriptive name of link]()
+- [History of MDN](https://developer.mozilla.org/en-US/docs/MDN/At_ten/History_of_MDN)
 
-- [tktk descriptive name of link]()
+- [MDN for loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
+
+- [MDN at() method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/at#specifications)
