@@ -2,25 +2,19 @@
 
 ## Module overview
 
-tktk What is the takeaway of this module?
+This module indroduces MDN Web Docs, a comprehensive and reliable resource for documentation on all aspects of web development. It provides background on what MDN is, as well as how to navigate articles and documentation. 
 
 ## Content outline
 
 | Lesson | Video Time | Video | Topics Covered |
 | ------ |:----------:|:-----:| -------------- |
-| [About](./about/README.md) | -- | -- | tktk topics covered |
-| [Anatomy of an MDN Article](./anatomy-of-an-article/README.md) | -- | -- | tktk topics covered |
+| [About](./about/README.md) | -- | -- | Introduce MDN and the resources it provides. |
+| [Anatomy of an MDN Article](./anatomy-of-an-article/README.md) | -- | -- | Demonstrate how to navigate documentation on MDN. |
 |  **Total Module**                                        | -- | ---           | ---                 |
 
 ## Additional content
 
 📖 [Reference Materials](./references/README.md)
-
-### 🚀 Level Up
-
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-01.md)
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-02.md)
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-03.md)
 
 ## Internal resources
 
