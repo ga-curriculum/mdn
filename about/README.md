@@ -1,6 +1,4 @@
-# About MDN
-
-![Hero image](./assets/hero.png)
+# ![MDN - About](./assets/hero.png)
 
 **Learning objective:** By the end of this lesson, students will be able to have a basic understanding of what MDN is and how to navigate to it.
 

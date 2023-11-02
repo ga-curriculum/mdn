@@ -1,6 +1,4 @@
-# Introduction to MDN
-
-![Hero image](./assets/tktkhero-main.png)
+# ![MDN](./assets/hero.png)
 
 ## Module overview
 
@@ -10,7 +8,7 @@ tktk What is the takeaway of this module?
 
 | Lesson | Video Time | Video | Topics Covered |
 | ------ |:----------:|:-----:| -------------- |
-| [About MDN](./about-mdn/README.md) | -- | -- | tktk topics covered |
+| [About](./about/README.md) | -- | -- | tktk topics covered |
 | [Anatomy of an MDN Article](./anatomy-of-an-article/README.md) | -- | -- | tktk topics covered |
 |  **Total Module**                                        | -- | ---           | ---                 |
 
