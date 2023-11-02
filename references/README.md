@@ -1,6 +1,4 @@
-# Intro to MDN - References
-
-![Hero image](./assets/hero.png)
+# ![Intro to MDN - References](./assets/hero.png)
 
 ## Lesson references
 
