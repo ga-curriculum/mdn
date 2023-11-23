@@ -2,7 +2,11 @@
 
 ## About
 
-This module introduces MDN Web Docs, a comprehensive and reliable resource for documentation on all aspects of web development. It provides background on what MDN is, as well as how to navigate articles and documentation. 
+This module introduces new developers to the Mozilla Developer Network (MDN) Web Docs, a key resource for JavaScript, CSS, and HTML. Think of MDN as a detailed manual for web development, offering extensive guidance and information. In this lesson, you'll learn to navigate MDN effectively, enabling you to find specific methods and concepts that are essential for solving programming challenges, both in your studies and future development career.
+
+## Prerequisites 
+
+None
 
 ## Content
 
