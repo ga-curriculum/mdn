@@ -2,15 +2,15 @@
 
 ## About
 
-This module indroduces MDN Web Docs, a comprehensive and reliable resource for documentation on all aspects of web development. It provides background on what MDN is, as well as how to navigate articles and documentation. 
+This module introduces MDN Web Docs, a comprehensive and reliable resource for documentation on all aspects of web development. It provides background on what MDN is, as well as how to navigate articles and documentation. 
 
 ## Content
 
-| Lesson | Video Time | Video | Topics Covered |
-| ------ |:----------:|:-----:| -------------- |
-| [About](./about/README.md) | -- | -- | Introduce MDN and the resources it provides. |
-| [Anatomy of an Article](./anatomy-of-an-article/README.md) | -- | -- | Demonstrate how to navigate documentation on MDN. |
-|  **Total Module**                                        | -- | ---           | ---                 |
+| Lesson | Video Time | Video | Skills |
+| ------ |:----------:|:-----:| ------ |
+| [About](./about/README.md)                                 | -- | -- | Introduce MDN and the resources it provides.       |
+| [Anatomy of an Article](./anatomy-of-an-article/README.md) | -- | -- | Demonstrate how to navigate documentation on MDN.  |
+|  **Total content**                                         | -- | -- |                                                    |
 
 ## References
 
