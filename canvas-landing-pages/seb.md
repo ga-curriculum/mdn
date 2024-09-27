@@ -1,4 +1,7 @@
-# ![MDN](../assets/hero.png)
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">MDN</span>
+</h1>
 
 ## About
 
@@ -6,10 +9,10 @@ This module introduces new developers to the Mozilla Developer Network (MDN) Web
 
 ## Content
 
-| Lesson | Skills |
-| ------ | ------ |
-| [About](../about/README.md)                                 | Introduce MDN and the resources it provides.       |
-| [Anatomy of an Article](../anatomy-of-an-article/README.md) | Demonstrate how to navigate documentation on MDN.  |
+| Lesson                                                      | Skills                                            |
+| ----------------------------------------------------------- | ------------------------------------------------- |
+| [About](../about/README.md)                                 | Introduce MDN and the resources it provides.      |
+| [Anatomy of an Article](../anatomy-of-an-article/README.md) | Demonstrate how to navigate documentation on MDN. |
 
 ## References
 

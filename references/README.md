@@ -1,4 +1,7 @@
-# ![Intro to MDN - References](./assets/hero.png)
+<h1>
+  <span class="headline">MDN</span>
+  <span class="subhead">References</span>
+</h1>
 
 ## Lesson references
 
