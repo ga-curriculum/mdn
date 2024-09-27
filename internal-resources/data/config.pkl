@@ -25,5 +25,13 @@ courses {
       mls.anatomyOfAnArticle
     }
   }
+  new {
+    name = "seb"
+    microlessons {
+      // add microlessons here, in the order they should be delivered
+      mls.about
+      mls.anatomyOfAnArticle
+    }
+  }
 }
 
