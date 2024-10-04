@@ -9,11 +9,10 @@ This module introduces new developers to the Mozilla Developer Network (MDN) Web
 
 ## Content
 
-| Lesson                                                     | Video Time | Video | Skills                                            |
-| ---------------------------------------------------------- | :--------: | :---: | ------------------------------------------------- |
-| [About](./about/README.md)                                 |     --     |  --   | Introduce MDN and the resources it provides.      |
-| [Anatomy of an Article](./anatomy-of-an-article/README.md) |     --     |  --   | Demonstrate how to navigate documentation on MDN. |
-| **Total content**                                          |     --     |  --   |                                                   |
+| Lesson                                                     | Skills                                            |
+| ---------------------------------------------------------- | ------------------------------------------------- |
+| [About](./about/README.md)                                 | Introduce MDN and the resources it provides.      |
+| [Anatomy of an Article](./anatomy-of-an-article/README.md) | Demonstrate how to navigate documentation on MDN. |
 
 ## References
 
