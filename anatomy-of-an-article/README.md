@@ -1,4 +1,7 @@
-# ![MDN - Anatomy of an Article](./assets/hero.png)
+<h1>
+  <span class="headline">MDN</span>
+  <span class="subhead">Anatomy of an Article</span>
+</h1>
 
 **Learning objective:** By the end of this lesson, students will be able to effectively navigate and experiment with the different sections of MDN Web Docs articles.
 
