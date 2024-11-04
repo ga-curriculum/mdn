@@ -24,7 +24,7 @@ This module introduces new developers to the Mozilla Developer Network (MDN) Web
 
 - None
 
-### Github Pages Sites
+### Course landing pages
 
 - [Default Landing Page](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/mdn/canvas-landing-pages/fallback)
 - [SEB - Software Engineering Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/mdn/canvas-landing-pages/seb)
