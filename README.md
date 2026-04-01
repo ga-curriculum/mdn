@@ -26,8 +26,8 @@ This module introduces new developers to the Mozilla Developer Network (MDN) Web
 
 ### Course landing pages
 
-- [Default Landing Page](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/mdn/canvas-landing-pages/fallback)
-- [SEB - Software Engineering Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/mdn/canvas-landing-pages/seb)
+- [Default Landing Page](https://ga-curriculum.github.io/mdn/canvas-landing-pages/fallback)
+- [SEB - Software Engineering Bootcamp](https://ga-curriculum.github.io/mdn/canvas-landing-pages/seb)
 
 ### Resources
 
@@ -39,4 +39,4 @@ This module introduces new developers to the Mozilla Developer Network (MDN) Web
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback)!**
